@@ -1,0 +1,14 @@
+{
+  "name": "vaccination",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "node-cron": "^2.0.3"
+  }
+}
